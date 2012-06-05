@@ -59,7 +59,7 @@ class LogsWriter (object):
         self.start_time = start_time
         self.delta_time = delta_time
         self.log_number = 0
-        log_date = datetime.datetime.fromtimestamp(start_time).strftime('%Y-%m-%m')
+        log_date = datetime.datetime.fromtimestamp(start_time).strftime('%Y-%m-%d')
         try: os.mkdir (log_date) 
         except: pass
         self.log_file = open ("%s/%08d" % (log_date, self.log_number), "w");
@@ -141,9 +141,9 @@ def print_usage ():
 # Разбор аргументов командной строки
 def parse_arguments ():
     parser = OptionParser()
-    parser.add_option("-b", dest="begin",       type="int", default=1293829200)
-    parser.add_option("-e", dest="end",         type="int", default=1296507600)
-    parser.add_option("-u", dest="users_count", type="int", default=100)
+    parser.add_option("-b", dest="begin",       type="int", default=1335816000)
+    parser.add_option("-e", dest="end",         type="int", default=1338494400)
+    parser.add_option("-u", dest="users_count", type="int", default=1000)
 
     (options, args) = parser.parse_args()
 
@@ -184,7 +184,7 @@ if __name__ == "__main__":
         inactive_users.add (User (ip, random.choice (useragents)))
 
     # Это вероятность, что пользователь активизируется - решит зайти на сайт
-    activate_user_probability = 0.01
+    activate_user_probability = 0.001
 
     # Множество активных пользователей сайта. Сейчас пустое
     active_users = set ()
