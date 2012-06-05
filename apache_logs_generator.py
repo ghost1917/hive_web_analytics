@@ -43,7 +43,7 @@ class User (object):
         self.click_time = self.next_time
         self.next_time += random.randint (1, 180);
         self.clicks_count -= 1
-        return "%s - - [%s] \"GET %s HTTP 1.0\" 200 %d %s %s" % (self.ip,
+        return "%s - - [%s] \"GET %s HTTP 1.0\" 200 %d %s \"%s\"" % (self.ip,
                datetime.datetime.fromtimestamp(self.click_time).strftime('%d/%b/%Y:%H:%M:%S +0400'),
                self.url,
                random.randint (1000, 20000), 
