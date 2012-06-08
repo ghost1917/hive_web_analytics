@@ -128,12 +128,14 @@ def print_usage ():
     Generates apache web logs for web statistics researches.    
 
     Usage:
-       ./apache_logs_generator.py -b unixtime -e unixtime -u number
+       ./apache_logs_generator.py [-b unixtime] [-e unixtime] [-u number] [-i float] [-h]
 
     Where 
         -b unixtime    start time
         -e unixtime    end time
         -u number      number of users
+        -i float       users intenciy. Probability of new visit in a second
+        -h             prints this message and exits
 """;    
 
 
@@ -144,15 +146,9 @@ def parse_arguments ():
     parser.add_option("-b", dest="begin",       type="int", default=1335816000)
     parser.add_option("-e", dest="end",         type="int", default=1338494400)
     parser.add_option("-u", dest="users_count", type="int", default=1000)
+    parser.add_option("-i", dest="visits_intensity", type="float", default=0.001)
 
     (options, args) = parser.parse_args()
-
-    if (options.begin is None or
-        options.end is None or
-        options.users_count is None):
-        print_usage ()
-        sys.exit (0)
-
     return options
 
 
@@ -183,9 +179,6 @@ if __name__ == "__main__":
         ip = "%d.%d.%d.%d" % (random.randint (0,255), random.randint (0,255), random.randint (0,255), random.randint (0,255))
         inactive_users.add (User (ip, random.choice (useragents)))
 
-    # Это вероятность, что пользователь активизируется - решит зайти на сайт
-    activate_user_probability = 0.001
-
     # Множество активных пользователей сайта. Сейчас пустое
     active_users = set ()
 
@@ -195,7 +188,7 @@ if __name__ == "__main__":
     # Проходим посекундно выбранный диапазон времени
     for current_time in xrange (options.begin, options.end):
         # Проверяем наступление ситуации "на сайт пришел еще один визитер"
-        if (len (inactive_users) != 0 and random.random () <= activate_user_probability):
+        if (len (inactive_users) != 0 and random.random () <= options.visits_intencity):
             activated_user = inactive_users.pop ()
             activated_user.activate (random.choice (web_paths), 
                                      random.choice (session_referrers), 

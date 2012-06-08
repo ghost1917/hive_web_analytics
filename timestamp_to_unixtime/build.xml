@@ -1,0 +1,30 @@
+<project default="jar">
+    <property name="build.dir"   value="build"/>
+    <property name="classes.dir" value="${build.dir}/classes"/>
+    <property name="jar.dir"     value="${build.dir}/jar"/>
+    <property name="jar.name"    value="timestamp_to_unixtime.jar"/>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="${classes.dir}"/>
+        <javac srcdir="." destdir="${classes.dir}">
+            <classpath>
+                <pathelement path="/usr/lib/hive/lib/hive-exec-0.7.1-cdh3u4.jar"/>
+                <pathelement path="/usr/lib/hadoop/hadoop-core-0.20.2-cdh3u4.jar"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="jar" depends="compile">
+        <mkdir dir="${jar.dir}"/>
+        <jar destfile="${jar.dir}/${jar.name}" basedir="${classes.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="TimestampToUnixTime"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+        </jar>
+    </target>
+</project>
