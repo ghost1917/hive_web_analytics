@@ -143,10 +143,10 @@ def print_usage ():
 # Разбор аргументов командной строки
 def parse_arguments ():
     parser = OptionParser()
-    parser.add_option("-b", dest="begin",       type="int", default=1335816000)
-    parser.add_option("-e", dest="end",         type="int", default=1338494400)
-    parser.add_option("-u", dest="users_count", type="int", default=1000)
-    parser.add_option("-i", dest="visits_intensity", type="float", default=0.001)
+    parser.add_option("-b", dest="begin",       type="int", default=1335816000,  description="start time (in unixtime format)")
+    parser.add_option("-e", dest="end",         type="int", default=1338494400,  description="stop time (in unixtime format)")
+    parser.add_option("-u", dest="users_count", type="int", default=1000,        description="total number of users on site")
+    parser.add_option("-i", dest="visits_intensity", type="float", default=0.001, description="total number of users on site")
 
     (options, args) = parser.parse_args()
     return options
