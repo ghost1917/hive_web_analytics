@@ -143,10 +143,10 @@ def print_usage ():
 # Разбор аргументов командной строки
 def parse_arguments ():
     parser = OptionParser()
-    parser.add_option("-b", dest="begin",       type="int", default=1335816000,  description="start time (in unixtime format)")
-    parser.add_option("-e", dest="end",         type="int", default=1338494400,  description="stop time (in unixtime format)")
-    parser.add_option("-u", dest="users_count", type="int", default=1000,        description="total number of users on site")
-    parser.add_option("-i", dest="visits_intensity", type="float", default=0.001, description="total number of users on site")
+    parser.add_option("-b", dest="begin",       type="int", default=1335816000,  help="start time (in unixtime format)")
+    parser.add_option("-e", dest="end",         type="int", default=1338494400,  help="stop time (in unixtime format)")
+    parser.add_option("-u", dest="users_count", type="int", default=1000,        help="total number of users on site")
+    parser.add_option("-i", dest="visits_intensity", type="float", default=0.001, help="total number of users on site")
 
     (options, args) = parser.parse_args()
     return options
@@ -188,7 +188,7 @@ if __name__ == "__main__":
     # Проходим посекундно выбранный диапазон времени
     for current_time in xrange (options.begin, options.end):
         # Проверяем наступление ситуации "на сайт пришел еще один визитер"
-        if (len (inactive_users) != 0 and random.random () <= options.visits_intencity):
+        if (len (inactive_users) != 0 and random.random () <= options.visits_intensity):
             activated_user = inactive_users.pop ()
             activated_user.activate (random.choice (web_paths), 
                                      random.choice (session_referrers), 
