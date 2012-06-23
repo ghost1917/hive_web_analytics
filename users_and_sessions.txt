@@ -1,0 +1,107 @@
+0.162.68.138Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1429	13	-
+101.198.87.31Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	551	8	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+104.35.128.74Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	990	15	http://news.rambler.ru/22989.html
+104.35.128.74Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	5169	65	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+106.179.73.39Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	4182	48	-
+106.184.37.138Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	6251	64	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+109.45.20.169Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	6451	69	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+112.237.224.136Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	2406	23	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+113.250.22.238Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	6120	67	-
+115.102.183.97Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	5848	67	-
+12.44.178.185Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	4519	47	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+126.214.121.135Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	732	14	http://news.rambler.ru/33742.html
+126.214.121.135Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3173	38	-
+129.180.160.128Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1490	18	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+129.243.191.187Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	2148	26	-
+134.121.230.242Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2249	24	http://news.rambler.ru/43333.html
+134.121.230.242Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	213	4	-
+137.176.31.57Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2038	19	-
+138.159.55.22Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2625	36	-
+138.230.228.94Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3441	39	http://news.rambler.ru/30029.html
+138.230.228.94Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	1648	21	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+139.201.0.165Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	4548	53	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+140.8.96.45Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	869	9	-
+140.8.96.45Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	8127	87	http://news.rambler.ru/69281.html
+143.42.152.144Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	8282	86	-
+145.24.74.0Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	6134	65	-
+147.29.205.17Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	9001	89	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+155.54.41.193Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	5008	58	-
+170.114.77.51Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	4206	46	-
+171.234.9.43Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3120	33	-
+179.82.71.233Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	7634	84	-
+18.118.183.69Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	134	3	-
+18.28.32.29Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	347	8	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+180.137.251.77Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2896	37	-
+181.105.80.56Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	1908	24	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+181.182.116.214Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	3452	40	http://news.rambler.ru/85204.html
+181.182.116.214Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	4509	46	-
+181.182.116.214Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	857	9	http://news.rambler.ru/85850.html
+185.52.185.54Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	1710	20	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+186.49.179.179Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	2015	24	-
+189.244.47.170Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	2874	33	-
+19.232.36.253Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3553	40	-
+190.36.178.110Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	7414	94	-
+191.57.89.109Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	1117	14	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+194.158.156.38Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	652	8	-
+197.83.204.6Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1994	26	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+202.98.153.19Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	6714	82	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+203.122.245.55Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2104	23	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+203.130.80.210Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	3366	40	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+204.219.95.137Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	4083	45	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+206.24.253.137Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	5760	65	-
+207.173.21.42Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	4074	50	-
+21.52.220.71Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3465	36	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+21.85.139.67Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	3371	41	-
+219.48.36.106Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	5895	61	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+22.230.5.181Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	7036	88	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+22.24.129.111Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	375	4	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+220.232.156.191Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1670	14	-
+226.191.2.140Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2212	25	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+228.104.120.51Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	5347	63	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+232.11.87.128Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2663	25	-
+233.97.219.86Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	6965	78	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+235.185.8.132Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	8987	98	-
+237.215.181.199Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	9731	100	-
+240.251.196.118Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3787	42	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+244.22.246.35Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	4679	51	-
+246.188.213.7Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	2253	37	-
+246.29.105.138Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	1851	19	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+250.141.240.56Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	6890	73	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+251.132.7.227Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	709	7	-
+254.200.186.0Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	4063	45	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+255.14.136.46Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	346	5	-
+26.207.84.65Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	779	8	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+27.76.94.204Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	8645	97	-
+29.28.89.87Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	8713	97	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+29.43.58.39Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	7289	90	-
+3.210.36.53Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	5593	75	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+30.108.208.234Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	4322	54	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+31.64.10.250Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1614	18	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+33.167.40.78Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	3051	35	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+38.53.140.170Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	1143	16	-
+38.53.140.170Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	4475	61	http://news.rambler.ru/57528.html
+38.75.220.166Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3281	39	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+4.91.209.35Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	748	11	-
+46.232.215.143Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3710	37	-
+47.86.211.33Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	4275	47	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+48.85.227.41Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	4728	51	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+52.17.122.199Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3449	44	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+57.237.200.250Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1066	13	http://news.rambler.ru/85942.html
+57.237.200.250Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	5455	65	-
+57.62.70.199Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	645	10	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+58.223.60.228Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	8447	92	-
+67.55.200.150Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2278	24	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+7.214.66.14Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	5489	66	-
+73.74.96.192Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	0	1	http://news.rambler.ru/61870.html
+73.74.96.192Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	6017	74	-
+76.136.236.185Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	6966	78	https://www.google.com/search?q=rambler+news&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs
+79.59.203.149Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	7266	83	-
+80.183.218.230Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	41	2	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+80.183.218.230Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2564	24	http://news.rambler.ru/70809.html
+81.162.16.244Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	1442	22	-
+82.78.130.6Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)	NULL	NULL	NULL	NULL	2987	41	http://yandex.ru/yandsearch?text=rambler+news&lr=213
+84.203.174.236Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	5481	68	-
+88.173.32.175Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	5195	51	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+9.136.173.71Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3515	36	http://nova.rambler.ru/search?btnG=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8!&query=rambler.+news
+90.192.250.152Mozilla/5.0 (Windows; I; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20100101 Firefox/4.0	NULL	NULL	NULL	NULL	3413	36	-
+92.110.220.36Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405	NULL	NULL	NULL	NULL	683	7	http://yandex.ru/yandsearch?text=rambler+news&lr=213
